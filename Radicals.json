@@ -1,0 +1,4273 @@
+[
+  {
+    "UID": 1,
+    "Radical": [
+      "一"
+    ],
+    "Kana Reading": [
+      "いち"
+    ],
+    "RomanjiReading": [
+      "ichi"
+    ],
+    "Meaning": [
+      "one",
+      "a horizontal stroke"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 2,
+    "Radical": [
+      "丨"
+    ],
+    "Kana Reading": [
+      "ぼう",
+      "たてぼう"
+    ],
+    "RomanjiReading": [
+      "bou",
+      "tatebou"
+    ],
+    "Meaning": [
+      "a vertical stroke"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 3,
+    "Radical": [
+      "丶"
+    ],
+    "Kana Reading": [
+      "てん",
+      "ちょぼ",
+      "ちゅ",
+      "ちゅてん"
+    ],
+    "RomanjiReading": [
+      "ten",
+      "chobo",
+      "chu",
+      "chuten"
+    ],
+    "Meaning": [
+      "a dot"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 4,
+    "Radical": [
+      "丿",
+      "ノ"
+    ],
+    "Kana Reading": [
+      "の",
+      "のかんむり",
+      "はらいぼう"
+    ],
+    "RomanjiReading": [
+      "no",
+      "nokanmuri",
+      "haraibou"
+    ],
+    "Meaning": [
+      "a stroke curved to the left"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 5,
+    "Radical": [
+      "乙",
+      "乚",
+      "⺄乛"
+    ],
+    "Kana Reading": [
+      "おつ",
+      "おつにょう",
+      "つりばり"
+    ],
+    "RomanjiReading": [
+      "otsu",
+      "otsunyou",
+      "tsubari"
+    ],
+    "Meaning": [
+      "a bend stroke",
+      "the second of celestial stems"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 6,
+    "Radical": [
+      "亅"
+    ],
+    "Kana Reading": [
+      "はねぼう"
+    ],
+    "RomanjiReading": [
+      "hanebou"
+    ],
+    "Meaning": [
+      "a hook"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 7,
+    "Radical": [
+      "二"
+    ],
+    "Kana Reading": [
+      "に"
+    ],
+    "RomanjiReading": [
+      "ni"
+    ],
+    "Meaning": [
+      "two",
+      "two horizontal strokes"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 8,
+    "Radical": [
+      "亠"
+    ],
+    "Kana Reading": [
+      "けいさん",
+      "けいさんかんむり",
+      "なべぶた"
+    ],
+    "RomanjiReading": [
+      "keisan",
+      "keisankanmuri",
+      "nabebuta"
+    ],
+    "Meaning": [
+      "head",
+      "above",
+      "lid"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 9,
+    "Radical": [
+      "人",
+      "亻",
+      "⺅",
+      "𠆢"
+    ],
+    "Kana Reading": [
+      "ひと",
+      "にんべん",
+      "ひとやね",
+      "ひとかんむり",
+      "ひとがしら"
+    ],
+    "RomanjiReading": [
+      "hito",
+      "ninben",
+      "hitoyane",
+      "hitokanmuri",
+      "hitogashira"
+    ],
+    "Meaning": [
+      "man",
+      "a person"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 10,
+    "Radical": [
+      "儿"
+    ],
+    "Kana Reading": [
+      "にんにょう",
+      "ひとあし"
+    ],
+    "RomanjiReading": [
+      "ninnyou",
+      "hitoashi"
+    ],
+    "Meaning": [
+      "legs",
+      "man",
+      "a person (at the bottom of a character)"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 11,
+    "Radical": [
+      "入"
+    ],
+    "Kana Reading": [
+      "いる",
+      "にゅう",
+      "いりがしら",
+      "いりやね"
+    ],
+    "RomanjiReading": [
+      "iru",
+      "nyuu",
+      "irigashira",
+      "iriyane"
+    ],
+    "Meaning": [
+      "entering",
+      "starting"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 12,
+    "Radical": [
+      "八",
+      "ハ"
+    ],
+    "Kana Reading": [
+      "はち",
+      "は",
+      "はちがしら"
+    ],
+    "RomanjiReading": [
+      "hachi",
+      "ha",
+      "hachigashira"
+    ],
+    "Meaning": [
+      "eight",
+      "to part",
+      "to divide"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 13,
+    "Radical": [
+      "冂"
+    ],
+    "Kana Reading": [
+      "けいがまえ",
+      "まきがまえ",
+      "どうがまえ",
+      "えんがまえ"
+    ],
+    "RomanjiReading": [
+      "keigamae",
+      "makigamae",
+      "dougamae",
+      "engamae"
+    ],
+    "Meaning": [
+      "down box",
+      "wilderness"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 14,
+    "Radical": [
+      "冖"
+    ],
+    "Kana Reading": [
+      "わかんむり"
+    ],
+    "RomanjiReading": [
+      "wakanmuri"
+    ],
+    "Meaning": [
+      "cover"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 15,
+    "Radical": [
+      "冫"
+    ],
+    "Kana Reading": [
+      "にすい"
+    ],
+    "RomanjiReading": [
+      "nisui"
+    ],
+    "Meaning": [
+      "two dots",
+      "ice",
+      "cold"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 16,
+    "Radical": [
+      "几"
+    ],
+    "Kana Reading": [
+      "つくえ",
+      "きにょう",
+      "つくえきにょう",
+      "かぜかんむ",
+      "かぜがまえ",
+      "かざがまえ"
+    ],
+    "RomanjiReading": [
+      "tsuke",
+      "kinyou",
+      "tsukuekinyou",
+      "kazekanmuri",
+      "kazegamae",
+      "kazagamae"
+    ],
+    "Meaning": [
+      "small table"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 17,
+    "Radical": [
+      "凵"
+    ],
+    "Kana Reading": [
+      "かんにょう",
+      "うけばこ",
+      "かんがまえ"
+    ],
+    "RomanjiReading": [
+      "kannyou",
+      "ukebako",
+      "kangamae"
+    ],
+    "Meaning": [
+      "container",
+      "wide opened mouth"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 18,
+    "Radical": [
+      "刀",
+      "刂",
+      "⺉",
+      "⺈"
+    ],
+    "Kana Reading": [
+      "かたな",
+      "りっとう"
+    ],
+    "RomanjiReading": [
+      "katana",
+      "rittou"
+    ],
+    "Meaning": [
+      "knife",
+      "sword",
+      "cutting",
+      "separating"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 19,
+    "Radical": [
+      "力"
+    ],
+    "Kana Reading": [
+      "ちから",
+      "りきづくり"
+    ],
+    "RomanjiReading": [
+      "chikara",
+      "rikizukuri"
+    ],
+    "Meaning": [
+      "strength",
+      "force"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 20,
+    "Radical": [
+      "勹"
+    ],
+    "Kana Reading": [
+      "つつみがまえ",
+      "くがまえ"
+    ],
+    "RomanjiReading": [
+      "tsutsumigamae",
+      "kugamae"
+    ],
+    "Meaning": [
+      "wrap",
+      "embrace"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 21,
+    "Radical": [
+      "匕"
+    ],
+    "Kana Reading": [
+      "さじ",
+      "さじのひ",
+      "さじづくり",
+      "ひ"
+    ],
+    "RomanjiReading": [
+      "saji",
+      "sajinohi",
+      "sajizukuri",
+      "hi"
+    ],
+    "Meaning": [
+      "spoon",
+      "ladle"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 22,
+    "Radical": [
+      "匚"
+    ],
+    "Kana Reading": [
+      "はこ",
+      "はこがまえ"
+    ],
+    "RomanjiReading": [
+      "hako",
+      "hakogamae"
+    ],
+    "Meaning": [
+      "square box"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 23,
+    "Radical": [
+      "亡"
+    ],
+    "Kana Reading": [
+      "かくしがまえ"
+    ],
+    "RomanjiReading": [
+      "kakushigamae"
+    ],
+    "Meaning": [
+      "round box"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 24,
+    "Radical": [
+      "十"
+    ],
+    "Kana Reading": [
+      "じゅう",
+      "じゅうへん"
+    ],
+    "RomanjiReading": [
+      "juu",
+      "juuhen"
+    ],
+    "Meaning": [
+      "ten",
+      "two crossed strokes"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 25,
+    "Radical": [
+      "卜",
+      "⼘",
+      "⺊"
+    ],
+    "Kana Reading": [
+      "ぼく",
+      "ぼくづくり",
+      "ぼくのと",
+      "と",
+      "うらない"
+    ],
+    "RomanjiReading": [
+      "boku",
+      "bokuzukuri",
+      "bokunoto",
+      "to",
+      "uranai"
+    ],
+    "Meaning": [
+      "divining"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 26,
+    "Radical": [
+      "卩",
+      "㔾"
+    ],
+    "Kana Reading": [
+      "ふし",
+      "ふしづくり",
+      "わりふ"
+    ],
+    "RomanjiReading": [
+      "fushi",
+      "fushizukuri",
+      "warifu"
+    ],
+    "Meaning": [
+      "seal",
+      "stamp"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 27,
+    "Radical": [
+      "厂"
+    ],
+    "Kana Reading": [
+      "がんだれ"
+    ],
+    "RomanjiReading": [
+      "gandare"
+    ],
+    "Meaning": [
+      "cliff"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 28,
+    "Radical": [
+      "厶"
+    ],
+    "Kana Reading": [
+      "む"
+    ],
+    "RomanjiReading": [
+      "mu"
+    ],
+    "Meaning": [
+      "self",
+      "private"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 29,
+    "Radical": [
+      "又"
+    ],
+    "Kana Reading": [
+      "また"
+    ],
+    "RomanjiReading": [
+      "mata"
+    ],
+    "Meaning": [
+      "grasping",
+      "further",
+      "again"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 30,
+    "Radical": [
+      "口",
+      "品"
+    ],
+    "Kana Reading": [
+      "くち",
+      "くちへん"
+    ],
+    "RomanjiReading": [
+      "kuchi",
+      "kuchihen"
+    ],
+    "Meaning": [
+      "mouth",
+      "opening",
+      "sounding"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 31,
+    "Radical": [
+      "囗"
+    ],
+    "Kana Reading": [
+      "くに",
+      "くにがまえ"
+    ],
+    "RomanjiReading": [
+      "kuni",
+      "kunigamae"
+    ],
+    "Meaning": [
+      "enclosure"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 32,
+    "Radical": [
+      "土"
+    ],
+    "Kana Reading": [
+      "つち",
+      "つちへん",
+      "どへん"
+    ],
+    "RomanjiReading": [
+      "tsuchi",
+      "tsuchihen",
+      "dohen"
+    ],
+    "Meaning": [
+      "earth",
+      "soil"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 33,
+    "Radical": [
+      "士"
+    ],
+    "Kana Reading": [
+      "さむらい"
+    ],
+    "RomanjiReading": [
+      "samurai"
+    ],
+    "Meaning": [
+      "official",
+      "scholar"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 34,
+    "Radical": [
+      "夂"
+    ],
+    "Kana Reading": [
+      "ちかんむり",
+      "ふゆがしら"
+    ],
+    "RomanjiReading": [
+      "chikanmuri",
+      "fuyugashira"
+    ],
+    "Meaning": [
+      "walking slowly"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 35,
+    "Radical": [
+      "夊"
+    ],
+    "Kana Reading": [
+      "なつあし",
+      "すいにょう"
+    ],
+    "RomanjiReading": [
+      "natsuashi",
+      "suinyou"
+    ],
+    "Meaning": [
+      "overtaking"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 36,
+    "Radical": [
+      "夕"
+    ],
+    "Kana Reading": [
+      "ゆう",
+      "ゆうべ",
+      "た"
+    ],
+    "RomanjiReading": [
+      "yuu",
+      "yuube",
+      "ta"
+    ],
+    "Meaning": [
+      "evening"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 37,
+    "Radical": [
+      "大"
+    ],
+    "Kana Reading": [
+      "だい",
+      "おおきい"
+    ],
+    "RomanjiReading": [
+      "dai",
+      "ooki"
+    ],
+    "Meaning": [
+      "big",
+      "large"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 38,
+    "Radical": [
+      "女"
+    ],
+    "Kana Reading": [
+      "おんな",
+      "おんなへん"
+    ],
+    "RomanjiReading": [
+      "onna",
+      "onnahen"
+    ],
+    "Meaning": [
+      "woman",
+      "female"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 39,
+    "Radical": [
+      "子",
+      "孑"
+    ],
+    "Kana Reading": [
+      "こ",
+      "こへん"
+    ],
+    "RomanjiReading": [
+      "ko",
+      "kohen"
+    ],
+    "Meaning": [
+      "child",
+      "son",
+      "seed",
+      "the first of terestrial branches"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 40,
+    "Radical": [
+      "宀"
+    ],
+    "Kana Reading": [
+      "うかんむり"
+    ],
+    "RomanjiReading": [
+      "ukanmuri"
+    ],
+    "Meaning": [
+      "roof",
+      "cover"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 41,
+    "Radical": [
+      "寸"
+    ],
+    "Kana Reading": [
+      "すん",
+      "すんづくり"
+    ],
+    "RomanjiReading": [
+      "sun",
+      "sunzukuri"
+    ],
+    "Meaning": [
+      "inch"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 42,
+    "Radical": [
+      "小",
+      "⺌",
+      "⺍"
+    ],
+    "Kana Reading": [
+      "しょう",
+      "ちいさい",
+      "なおがしら",
+      "つ"
+    ],
+    "RomanjiReading": [
+      "shou",
+      "chiisai",
+      "naogashira",
+      "tsu"
+    ],
+    "Meaning": [
+      "small"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 43,
+    "Radical": [
+      "尢",
+      "尤",
+      "尣"
+    ],
+    "Kana Reading": [
+      "まげあし",
+      "だいのまげあし",
+      "あう",
+      "おうにょう"
+    ],
+    "RomanjiReading": [
+      "mageashi",
+      "dainomageashi",
+      "au",
+      "ounyou"
+    ],
+    "Meaning": [
+      "lame"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 44,
+    "Radical": [
+      "尸"
+    ],
+    "Kana Reading": [
+      "しかばね",
+      "かばね",
+      "かばねだれ"
+    ],
+    "RomanjiReading": [
+      "shikabane",
+      "kabane",
+      "kabanedare"
+    ],
+    "Meaning": [
+      "corpse",
+      "body"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 45,
+    "Radical": [
+      "屮"
+    ],
+    "Kana Reading": [
+      "くさのめ",
+      "めばえ",
+      "てつ"
+    ],
+    "RomanjiReading": [
+      "kusanome",
+      "mebae",
+      "tetsu"
+    ],
+    "Meaning": [
+      "sprout"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 46,
+    "Radical": [
+      "山"
+    ],
+    "Kana Reading": [
+      "やま",
+      "やまへん",
+      "やまかんむり"
+    ],
+    "RomanjiReading": [
+      "yama",
+      "yamahen",
+      "yamakanmuri"
+    ],
+    "Meaning": [
+      "mountain",
+      "cliff"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 47,
+    "Radical": [
+      "巛",
+      "川",
+      "巜"
+    ],
+    "Kana Reading": [
+      "かわ",
+      "まがりがわ",
+      "さんぼんがわ"
+    ],
+    "RomanjiReading": [
+      "kawa",
+      "margarigawa",
+      "sanbongawa"
+    ],
+    "Meaning": [
+      "river",
+      "stream"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 48,
+    "Radical": [
+      "工"
+    ],
+    "Kana Reading": [
+      "こう",
+      "たくみ",
+      "たくみへん",
+      "え"
+    ],
+    "RomanjiReading": [
+      "kou",
+      "takumi",
+      "takumihen",
+      "e"
+    ],
+    "Meaning": [
+      "work"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 49,
+    "Radical": [
+      "已",
+      "己",
+      "巳"
+    ],
+    "Kana Reading": [
+      "おのれ",
+      "き",
+      "つちのと"
+    ],
+    "RomanjiReading": [
+      "onore",
+      "ki",
+      "tsuchinoto"
+    ],
+    "Meaning": [
+      "self",
+      "own",
+      "the sixth of the celestial stems"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 50,
+    "Radical": [
+      "巾"
+    ],
+    "Kana Reading": [
+      "はば",
+      "はばへん",
+      "きんべん"
+    ],
+    "RomanjiReading": [
+      "haba",
+      "habahen",
+      "kinben"
+    ],
+    "Meaning": [
+      "towel",
+      "napkin",
+      "turban"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 51,
+    "Radical": [
+      "干"
+    ],
+    "Kana Reading": [
+      "かん",
+      "いちじゅう",
+      "ほす",
+      "ひる",
+      "たてかん"
+    ],
+    "RomanjiReading": [
+      "kan",
+      "ichijuu",
+      "hosu",
+      "hiru",
+      "tatekan"
+    ],
+    "Meaning": [
+      "dried"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 52,
+    "Radical": [
+      "幺",
+      "乡"
+    ],
+    "Kana Reading": [
+      "いとがしら",
+      "よう"
+    ],
+    "RomanjiReading": [
+      "itogashira",
+      "you"
+    ],
+    "Meaning": [
+      "short",
+      "tiny"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 53,
+    "Radical": [
+      "广"
+    ],
+    "Kana Reading": [
+      "まだれ"
+    ],
+    "RomanjiReading": [
+      "madare"
+    ],
+    "Meaning": [
+      "house built at a slope",
+      "dotted cliff"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 54,
+    "Radical": [
+      "廴"
+    ],
+    "Kana Reading": [
+      "えんにょう",
+      "いんにょう"
+    ],
+    "RomanjiReading": [
+      "ennyou",
+      "innyou"
+    ],
+    "Meaning": [
+      "walking a long distance"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 55,
+    "Radical": [
+      "廾",
+      "廿"
+    ],
+    "Kana Reading": [
+      "にじゅう",
+      "にじゅうあし",
+      "こまぬき"
+    ],
+    "RomanjiReading": [
+      "nijuu",
+      "nijuuashi",
+      "komanuki"
+    ],
+    "Meaning": [
+      "two hands",
+      "twenty"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 56,
+    "Radical": [
+      "弋"
+    ],
+    "Kana Reading": [
+      "しきがまえ",
+      "いぐるみ"
+    ],
+    "RomanjiReading": [
+      "shikigamae",
+      "igurumi"
+    ],
+    "Meaning": [
+      "shoot",
+      "arrow"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 57,
+    "Radical": [
+      "弓"
+    ],
+    "Kana Reading": [
+      "ゆみ",
+      "ゆみへん"
+    ],
+    "RomanjiReading": [
+      "yumi",
+      "yumihen"
+    ],
+    "Meaning": [
+      "bow"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 58,
+    "Radical": [
+      "彐",
+      "ヨ",
+      "彑"
+    ],
+    "Kana Reading": [
+      "けい",
+      "けいがしら",
+      "いのこがしら"
+    ],
+    "RomanjiReading": [
+      "kei",
+      "keigashira",
+      "inokogashira"
+    ],
+    "Meaning": [
+      "pig head"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 59,
+    "Radical": [
+      "彡"
+    ],
+    "Kana Reading": [
+      "さん",
+      "さんづくり"
+    ],
+    "RomanjiReading": [
+      "san",
+      "sanzukuri"
+    ],
+    "Meaning": [
+      "hair",
+      "feather"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 60,
+    "Radical": [
+      "彳"
+    ],
+    "Kana Reading": [
+      "ぎょうにんべん"
+    ],
+    "RomanjiReading": [
+      "gyouninben"
+    ],
+    "Meaning": [
+      "walking slowly"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 61,
+    "Radical": [
+      "心",
+      "忄",
+      "⺗"
+    ],
+    "Kana Reading": [
+      "こころ",
+      "したごころ",
+      "りっしんべん"
+    ],
+    "RomanjiReading": [
+      "kokoro",
+      "shitagokoro",
+      "risshinben"
+    ],
+    "Meaning": [
+      "heart",
+      "feeling"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 62,
+    "Radical": [
+      "戈"
+    ],
+    "Kana Reading": [
+      "ほこ",
+      "ほこづくり",
+      "ほこがまえ",
+      "かのほこ"
+    ],
+    "RomanjiReading": [
+      "hoko",
+      "hokozukuri",
+      "hokogamae",
+      "kanohoko"
+    ],
+    "Meaning": [
+      "axe",
+      "halberd"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 63,
+    "Radical": [
+      "戸",
+      "戶",
+      "户"
+    ],
+    "Kana Reading": [
+      "と",
+      "とだれ",
+      "とかんむり"
+    ],
+    "RomanjiReading": [
+      "to",
+      "todare",
+      "tokanmuri"
+    ],
+    "Meaning": [
+      "house",
+      "door"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 64,
+    "Radical": [
+      "手",
+      "扌",
+      "龵"
+    ],
+    "Kana Reading": [
+      "て",
+      "てへん"
+    ],
+    "RomanjiReading": [
+      "te",
+      "tehen"
+    ],
+    "Meaning": [
+      "hand",
+      "actions"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 65,
+    "Radical": [
+      "支"
+    ],
+    "Kana Reading": [
+      "し",
+      "しにょう",
+      "えだにょう",
+      "じゅうまた"
+    ],
+    "RomanjiReading": [
+      "juumata"
+    ],
+    "Meaning": [
+      "branch"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 66,
+    "Radical": [
+      "攵",
+      "攴"
+    ],
+    "Kana Reading": [
+      "ぼくにょう",
+      "ぼくづくり",
+      "とまた",
+      "のぶん",
+      "しぶん"
+    ],
+    "RomanjiReading": [
+      "bokuniyou",
+      "bokuzukuri",
+      "tomata",
+      "nobun",
+      "shibun"
+    ],
+    "Meaning": [
+      "whip"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 67,
+    "Radical": [
+      "文"
+    ],
+    "Kana Reading": [
+      "ぶん",
+      "ぶんにょう"
+    ],
+    "RomanjiReading": [
+      "bun",
+      "bunnyou"
+    ],
+    "Meaning": [
+      "word",
+      "literature"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 68,
+    "Radical": [
+      "斗"
+    ],
+    "Kana Reading": [
+      "と",
+      "とます",
+      "ますづくり"
+    ],
+    "RomanjiReading": [
+      "to",
+      "tomasu",
+      "masuzukuri"
+    ],
+    "Meaning": [
+      "a kind of volume measure"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 69,
+    "Radical": [
+      "斤"
+    ],
+    "Kana Reading": [
+      "おの",
+      "おのづくり",
+      "きん"
+    ],
+    "RomanjiReading": [
+      "ono",
+      "onozukuri",
+      "kin"
+    ],
+    "Meaning": [
+      "a kind of weight measure",
+      "axe"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 70,
+    "Radical": [
+      "方"
+    ],
+    "Kana Reading": [
+      "ほう",
+      "ほうへん",
+      "かた",
+      "かたへん"
+    ],
+    "RomanjiReading": [
+      "hou",
+      "houhen",
+      "kata",
+      "katahen"
+    ],
+    "Meaning": [
+      "square",
+      "direction",
+      "locality"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 71,
+    "Radical": [
+      "无",
+      "旡",
+      "無"
+    ],
+    "Kana Reading": [
+      "む",
+      "むにょう",
+      "すでのつくり"
+    ],
+    "RomanjiReading": [
+      "mu",
+      "munyou",
+      "sudenotsukuri"
+    ],
+    "Meaning": [
+      "do not",
+      "no"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 72,
+    "Radical": [
+      "日"
+    ],
+    "Kana Reading": [
+      "ひ",
+      "ひへん",
+      "にち",
+      "にちへん",
+      "に"
+    ],
+    "RomanjiReading": [
+      "hi",
+      "hihen",
+      "nichi",
+      "nichihen",
+      "ni"
+    ],
+    "Meaning": [
+      "sun",
+      "clear"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 73,
+    "Radical": [
+      "曰"
+    ],
+    "Kana Reading": [
+      "ひらび",
+      "いわく"
+    ],
+    "RomanjiReading": [
+      "hirabi",
+      "iwaku"
+    ],
+    "Meaning": [
+      "speaking"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 74,
+    "Radical": [
+      "月",
+      "⺝"
+    ],
+    "Kana Reading": [
+      "つき",
+      "つきへん"
+    ],
+    "RomanjiReading": [
+      "tsuki",
+      "tsukihen"
+    ],
+    "Meaning": [
+      "moon",
+      "month"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 75,
+    "Radical": [
+      "木"
+    ],
+    "Kana Reading": [
+      "き",
+      "きへん"
+    ],
+    "RomanjiReading": [
+      "ki",
+      "kihen"
+    ],
+    "Meaning": [
+      "tree",
+      "wood"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 76,
+    "Radical": [
+      "欠"
+    ],
+    "Kana Reading": [
+      "あくび",
+      "けんづくり",
+      "かける",
+      "けつ"
+    ],
+    "RomanjiReading": [
+      "akubi",
+      "kenzukuri",
+      "kakeru",
+      "ketsu"
+    ],
+    "Meaning": [
+      "yawn",
+      "lack"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 77,
+    "Radical": [
+      "止"
+    ],
+    "Kana Reading": [
+      "とまる",
+      "とめる",
+      "とめへん"
+    ],
+    "RomanjiReading": [
+      "tomaru",
+      "tomeru",
+      "tomehen"
+    ],
+    "Meaning": [
+      "stopping"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 78,
+    "Radical": [
+      "歹",
+      "歺"
+    ],
+    "Kana Reading": [
+      "がつ",
+      "がってん",
+      "がつへん",
+      "かばね",
+      "かばねへん",
+      "いちたへん"
+    ],
+    "RomanjiReading": [
+      "gatsu",
+      "gatten",
+      "gatsuhen",
+      "kabane",
+      "kabanehen",
+      "ichitahen"
+    ],
+    "Meaning": [
+      "dead",
+      "decay"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 79,
+    "Radical": [
+      "殳"
+    ],
+    "Kana Reading": [
+      "るまた",
+      "ほこづくり"
+    ],
+    "RomanjiReading": [
+      "rumata",
+      "hokozukuri"
+    ],
+    "Meaning": [
+      "halberd"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 80,
+    "Radical": [
+      "毋",
+      "母",
+      "⺟"
+    ],
+    "Kana Reading": [
+      "なし",
+      "なかれ",
+      "はは",
+      "ははのかん"
+    ],
+    "RomanjiReading": [
+      "nashi",
+      "nakare",
+      "haha",
+      "hahanokan"
+    ],
+    "Meaning": [
+      "mother"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 81,
+    "Radical": [
+      "比"
+    ],
+    "Kana Reading": [
+      "ひ",
+      "くらべる",
+      "ならびひ"
+    ],
+    "RomanjiReading": [
+      "hi",
+      "kuraberu",
+      "narabihi"
+    ],
+    "Meaning": [
+      "side by side",
+      "comparing"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 82,
+    "Radical": [
+      "毛"
+    ],
+    "Kana Reading": [
+      "け"
+    ],
+    "RomanjiReading": [
+      "ke"
+    ],
+    "Meaning": [
+      "hair",
+      "feather"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 83,
+    "Radical": [
+      "氏"
+    ],
+    "Kana Reading": [
+      "うじ"
+    ],
+    "RomanjiReading": [
+      "uji"
+    ],
+    "Meaning": [
+      "clan"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 84,
+    "Radical": [
+      "气"
+    ],
+    "Kana Reading": [
+      "きがまえ"
+    ],
+    "RomanjiReading": [
+      "kigamae"
+    ],
+    "Meaning": [
+      "air",
+      "breath"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 85,
+    "Radical": [
+      "水",
+      "氵",
+      "氺"
+    ],
+    "Kana Reading": [
+      "みず",
+      "したみず",
+      "さんずい"
+    ],
+    "RomanjiReading": [
+      "mizu",
+      "shitamizu",
+      "sanzui"
+    ],
+    "Meaning": [
+      "water"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 86,
+    "Radical": [
+      "火",
+      "灬"
+    ],
+    "Kana Reading": [
+      "ひ",
+      "ひへん",
+      "れっか",
+      "れんが"
+    ],
+    "RomanjiReading": [
+      "hi",
+      "hihen",
+      "rekka",
+      "renga"
+    ],
+    "Meaning": [
+      "fire"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 87,
+    "Radical": [
+      "爪",
+      "爫",
+      "⺥",
+      "⺤"
+    ],
+    "Kana Reading": [
+      "つめ",
+      "つめがしら",
+      "つめかんむり",
+      "そうにょう",
+      "のつ"
+    ],
+    "RomanjiReading": [
+      "tsume",
+      "tsumegashira",
+      "tsumekanmuri",
+      "sounyou",
+      "notsu"
+    ],
+    "Meaning": [
+      "claw",
+      "hand"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 88,
+    "Radical": [
+      "父"
+    ],
+    "Kana Reading": [
+      "ちち"
+    ],
+    "RomanjiReading": [
+      "chichi"
+    ],
+    "Meaning": [
+      "father"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 89,
+    "Radical": [
+      "爻"
+    ],
+    "Kana Reading": [
+      "こう",
+      "めめ"
+    ],
+    "RomanjiReading": [
+      "kou",
+      "meme"
+    ],
+    "Meaning": [
+      "mix",
+      "twine",
+      "cross"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 90,
+    "Radical": [
+      "爿",
+      "丬"
+    ],
+    "Kana Reading": [
+      "しょうへん"
+    ],
+    "RomanjiReading": [
+      "shouhen"
+    ],
+    "Meaning": [
+      "half of a tree trunk",
+      "split wood"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 91,
+    "Radical": [
+      "片"
+    ],
+    "Kana Reading": [
+      "かた",
+      "かたへん"
+    ],
+    "RomanjiReading": [
+      "kata",
+      "katahen"
+    ],
+    "Meaning": [
+      "slice",
+      "piece"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 92,
+    "Radical": [
+      "牙"
+    ],
+    "Kana Reading": [
+      "きば",
+      "きばへん"
+    ],
+    "RomanjiReading": [
+      "kiba",
+      "kibahen"
+    ],
+    "Meaning": [
+      "fang"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 93,
+    "Radical": [
+      "牛",
+      "牜",
+      "⺧"
+    ],
+    "Kana Reading": [
+      "うし",
+      "うしへん"
+    ],
+    "RomanjiReading": [
+      "ushi",
+      "ushihen"
+    ],
+    "Meaning": [
+      "cow",
+      "ox"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 94,
+    "Radical": [
+      "犬",
+      "犭"
+    ],
+    "Kana Reading": [
+      "いぬ",
+      "けものへん"
+    ],
+    "RomanjiReading": [
+      "inu",
+      "kemonohen"
+    ],
+    "Meaning": [
+      "dog",
+      "dog-like animals"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 95,
+    "Radical": [
+      "玄"
+    ],
+    "Kana Reading": [
+      "げん"
+    ],
+    "RomanjiReading": [
+      "gen"
+    ],
+    "Meaning": [
+      "black",
+      "dark",
+      "profound"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 96,
+    "Radical": [
+      "王",
+      "玉",
+      "玊",
+      "⺩"
+    ],
+    "Kana Reading": [
+      "たま",
+      "たまへん",
+      "おう",
+      "おうへん",
+      "あうさま"
+    ],
+    "RomanjiReading": [
+      "tama",
+      "tamahen",
+      "ou",
+      "ouhen",
+      "ausama"
+    ],
+    "Meaning": [
+      "jade",
+      "stone",
+      "king",
+      "ball"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 97,
+    "Radical": [
+      "瓜"
+    ],
+    "Kana Reading": [
+      "うり"
+    ],
+    "RomanjiReading": [
+      "uri"
+    ],
+    "Meaning": [
+      "pumpkin",
+      "melon"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 98,
+    "Radical": [
+      "瓦"
+    ],
+    "Kana Reading": [
+      "かわら"
+    ],
+    "RomanjiReading": [
+      "kawara"
+    ],
+    "Meaning": [
+      "tile",
+      "earthenware"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 99,
+    "Radical": [
+      "甘"
+    ],
+    "Kana Reading": [
+      "あまい",
+      "かん"
+    ],
+    "RomanjiReading": [
+      "amai",
+      "kan"
+    ],
+    "Meaning": [
+      "sweet"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 100,
+    "Radical": [
+      "生"
+    ],
+    "Kana Reading": [
+      "うむ",
+      "うまれる",
+      "いきる"
+    ],
+    "RomanjiReading": [
+      "umu",
+      "umareru",
+      "ikiru"
+    ],
+    "Meaning": [
+      "giving birth",
+      "live"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 101,
+    "Radical": [
+      "用",
+      "甩"
+    ],
+    "Kana Reading": [
+      "もちいる",
+      "よう"
+    ],
+    "RomanjiReading": [
+      "mochiiru",
+      "you"
+    ],
+    "Meaning": [
+      "using"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 102,
+    "Radical": [
+      "田"
+    ],
+    "Kana Reading": [
+      "た",
+      "たへん"
+    ],
+    "RomanjiReading": [
+      "ta",
+      "tahen"
+    ],
+    "Meaning": [
+      "field"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 103,
+    "Radical": [
+      "疋",
+      "⺪"
+    ],
+    "Kana Reading": [
+      "ひき",
+      "ひきへん"
+    ],
+    "RomanjiReading": [
+      "hiki",
+      "hikihen"
+    ],
+    "Meaning": [
+      "roll",
+      "bolt of cloth"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 104,
+    "Radical": [
+      "疒"
+    ],
+    "Kana Reading": [
+      "やまい",
+      "やまいだれ"
+    ],
+    "RomanjiReading": [
+      "yamai",
+      "yamaidare"
+    ],
+    "Meaning": [
+      "sickness"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 105,
+    "Radical": [
+      "癶"
+    ],
+    "Kana Reading": [
+      "はつがしら"
+    ],
+    "RomanjiReading": [
+      "hatsugashira"
+    ],
+    "Meaning": [
+      "footsteps"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 106,
+    "Radical": [
+      "白"
+    ],
+    "Kana Reading": [
+      "しろ",
+      "しろへん"
+    ],
+    "RomanjiReading": [
+      "shiro",
+      "shirohen"
+    ],
+    "Meaning": [
+      "white"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 107,
+    "Radical": [
+      "皮"
+    ],
+    "Kana Reading": [
+      "かわ",
+      "けがわ",
+      "ひのかわ"
+    ],
+    "RomanjiReading": [
+      "kawa",
+      "kegawa",
+      "hinokawa"
+    ],
+    "Meaning": [
+      "leather",
+      "skin"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 108,
+    "Radical": [
+      "皿"
+    ],
+    "Kana Reading": [
+      "さら"
+    ],
+    "RomanjiReading": [
+      "sara"
+    ],
+    "Meaning": [
+      "dish",
+      "plate"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 109,
+    "Radical": [
+      "目"
+    ],
+    "Kana Reading": [
+      "め",
+      "めへん",
+      "よこめ"
+    ],
+    "RomanjiReading": [
+      "me",
+      "mehen",
+      "yokome"
+    ],
+    "Meaning": [
+      "eye"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 110,
+    "Radical": [
+      "矛"
+    ],
+    "Kana Reading": [
+      "ほこ",
+      "ほこへん",
+      "むのほこ"
+    ],
+    "RomanjiReading": [
+      "hoko",
+      "hokohen",
+      "munohoko"
+    ],
+    "Meaning": [
+      "spear",
+      "pike"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 111,
+    "Radical": [
+      "矢"
+    ],
+    "Kana Reading": [
+      "や",
+      "やへん"
+    ],
+    "RomanjiReading": [
+      "ya",
+      "yahen"
+    ],
+    "Meaning": [
+      "arrow"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 112,
+    "Radical": [
+      "石"
+    ],
+    "Kana Reading": [
+      "いし",
+      "いしへん"
+    ],
+    "RomanjiReading": [
+      "ishi",
+      "ishihen"
+    ],
+    "Meaning": [
+      "stone",
+      "rock"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 113,
+    "Radical": [
+      "示",
+      "礻"
+    ],
+    "Kana Reading": [
+      "しめす",
+      "しめすへん"
+    ],
+    "RomanjiReading": [
+      "shimesu",
+      "shimesuhen"
+    ],
+    "Meaning": [
+      "altar",
+      "display",
+      "spiritual",
+      "ancestor"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 114,
+    "Radical": [
+      "禸"
+    ],
+    "Kana Reading": [
+      "あしあと",
+      "ぐうのあし"
+    ],
+    "RomanjiReading": [
+      "ashiato",
+      "guunoashi"
+    ],
+    "Meaning": [
+      "rump",
+      "track"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 115,
+    "Radical": [
+      "禾"
+    ],
+    "Kana Reading": [
+      "のぎ",
+      "のぎへん"
+    ],
+    "RomanjiReading": [
+      "nogi",
+      "nogihen"
+    ],
+    "Meaning": [
+      "grain",
+      "ear"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 116,
+    "Radical": [
+      "穴"
+    ],
+    "Kana Reading": [
+      "あな",
+      "あなかんむり"
+    ],
+    "RomanjiReading": [
+      "ana",
+      "anakanmuri"
+    ],
+    "Meaning": [
+      "hollow",
+      "hole",
+      "hidden"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 117,
+    "Radical": [
+      "立"
+    ],
+    "Kana Reading": [
+      "たつ",
+      "たつへん"
+    ],
+    "RomanjiReading": [
+      "tatsu",
+      "tatsuhen"
+    ],
+    "Meaning": [
+      "stand",
+      "erect"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 118,
+    "Radical": [
+      "竹",
+      "⺮"
+    ],
+    "Kana Reading": [
+      "たけ",
+      "たけかんむり"
+    ],
+    "RomanjiReading": [
+      "take",
+      "takekanmuri"
+    ],
+    "Meaning": [
+      "bamboo"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 119,
+    "Radical": [
+      "米"
+    ],
+    "Kana Reading": [
+      "こめ",
+      "こめへん"
+    ],
+    "RomanjiReading": [
+      "kome",
+      "komehen"
+    ],
+    "Meaning": [
+      "rice"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 120,
+    "Radical": [
+      "糸",
+      "糹"
+    ],
+    "Kana Reading": [
+      "いと",
+      "いとへん"
+    ],
+    "RomanjiReading": [
+      "ito",
+      "itohen"
+    ],
+    "Meaning": [
+      "thread",
+      "fabric"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 121,
+    "Radical": [
+      "缶"
+    ],
+    "Kana Reading": [
+      "ほとぎ",
+      "ほとぎへん"
+    ],
+    "RomanjiReading": [
+      "hotogi",
+      "hotogihen"
+    ],
+    "Meaning": [
+      "tin",
+      "can",
+      "jar"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 122,
+    "Radical": [
+      "罒",
+      "网",
+      "罓",
+      "⺲",
+      "⺳"
+    ],
+    "Kana Reading": [
+      "あみ",
+      "あみがしら",
+      "あみめ",
+      "よこめ",
+      "よんかしら"
+    ],
+    "RomanjiReading": [
+      "ami",
+      "amigashira",
+      "amime",
+      "yokome",
+      "yonkashira"
+    ],
+    "Meaning": [
+      "net"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 123,
+    "Radical": [
+      "羊",
+      "⺶",
+      "⺷"
+    ],
+    "Kana Reading": [
+      "ひつじ",
+      "ひつじへん",
+      "ひつじかんむり"
+    ],
+    "RomanjiReading": [
+      "hitsuji",
+      "hitsujihen",
+      "hitsujikanmuri"
+    ],
+    "Meaning": [
+      "sheep",
+      "goat"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 124,
+    "Radical": [
+      "羽"
+    ],
+    "Kana Reading": [
+      "はね"
+    ],
+    "RomanjiReading": [
+      "hanebou"
+    ],
+    "Meaning": [
+      "wings",
+      "feather"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 125,
+    "Radical": [
+      "耂",
+      "老",
+      "⺹"
+    ],
+    "Kana Reading": [
+      "おい",
+      "おいかんむり",
+      "おいがしら"
+    ],
+    "RomanjiReading": [
+      "oi",
+      "oikanmuri",
+      "oigashira"
+    ],
+    "Meaning": [
+      "old"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 126,
+    "Radical": [
+      "而"
+    ],
+    "Kana Reading": [
+      "しかし",
+      "しかして",
+      "しこうして"
+    ],
+    "RomanjiReading": [
+      "shikashi",
+      "shikashite",
+      "shikoushite"
+    ],
+    "Meaning": [
+      "moustache",
+      "beard",
+      "but",
+      "and"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 127,
+    "Radical": [
+      "耒"
+    ],
+    "Kana Reading": [
+      "すき",
+      "すきへん",
+      "らいすき",
+      "らいへん"
+    ],
+    "RomanjiReading": [
+      "suki",
+      "sukihen",
+      "raisuki",
+      "raihen"
+    ],
+    "Meaning": [
+      "handle of a plough"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 128,
+    "Radical": [
+      "耳"
+    ],
+    "Kana Reading": [
+      "みみ",
+      "みみへん"
+    ],
+    "RomanjiReading": [
+      "mimi",
+      "mimihen"
+    ],
+    "Meaning": [
+      "ear"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 129,
+    "Radical": [
+      "聿",
+      "肀",
+      "⺻"
+    ],
+    "Kana Reading": [
+      "ふで",
+      "ふでづくり",
+      "ふでがしら"
+    ],
+    "RomanjiReading": [
+      "fude",
+      "fudezukuri",
+      "fudegashira"
+    ],
+    "Meaning": [
+      "ink brush"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 130,
+    "Radical": [
+      "肉",
+      "⺼",
+      "月"
+    ],
+    "Kana Reading": [
+      "にく",
+      "にくづき"
+    ],
+    "RomanjiReading": [
+      "niku",
+      "nikuzuki"
+    ],
+    "Meaning": [
+      "meat",
+      "organs of the body"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 131,
+    "Radical": [
+      "臣"
+    ],
+    "Kana Reading": [
+      "しん",
+      "おみ"
+    ],
+    "RomanjiReading": [
+      "shin",
+      "omi"
+    ],
+    "Meaning": [
+      "minister",
+      "official"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 132,
+    "Radical": [
+      "自"
+    ],
+    "Kana Reading": [
+      "みずから"
+    ],
+    "RomanjiReading": [
+      "mizukara"
+    ],
+    "Meaning": [
+      "nose",
+      "oneself"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 133,
+    "Radical": [
+      "至"
+    ],
+    "Kana Reading": [
+      "いたる"
+    ],
+    "RomanjiReading": [
+      "itaru"
+    ],
+    "Meaning": [
+      "arrive"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 134,
+    "Radical": [
+      "臼"
+    ],
+    "Kana Reading": [
+      "うす"
+    ],
+    "RomanjiReading": [
+      "usu"
+    ],
+    "Meaning": [
+      "mortar"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 135,
+    "Radical": [
+      "舌"
+    ],
+    "Kana Reading": [
+      "した",
+      "したへん"
+    ],
+    "RomanjiReading": [
+      "shita",
+      "shitahen"
+    ],
+    "Meaning": [
+      "tongue"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 136,
+    "Radical": [
+      "舛"
+    ],
+    "Kana Reading": [
+      "ます",
+      "まいあし"
+    ],
+    "RomanjiReading": [
+      "masu",
+      "maiashi"
+    ],
+    "Meaning": [
+      "lying side by side",
+      "oposite"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 137,
+    "Radical": [
+      "舟"
+    ],
+    "Kana Reading": [
+      "ふね",
+      "ふねへん"
+    ],
+    "RomanjiReading": [
+      "fune",
+      "funehen"
+    ],
+    "Meaning": [
+      "boat",
+      "ship"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 138,
+    "Radical": [
+      "艮"
+    ],
+    "Kana Reading": [
+      "うしとら",
+      "こん",
+      "こんづくり",
+      "ねづくり"
+    ],
+    "RomanjiReading": [
+      "ushitora",
+      "kon",
+      "konzukuri",
+      "nezukuri"
+    ],
+    "Meaning": [
+      "stopping"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 139,
+    "Radical": [
+      "色"
+    ],
+    "Kana Reading": [
+      "いろ"
+    ],
+    "RomanjiReading": [
+      "iro"
+    ],
+    "Meaning": [
+      "colour",
+      "outlook"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 140,
+    "Radical": [
+      "艹",
+      "艸",
+      "⺾",
+      "䒑",
+      "丷"
+    ],
+    "Kana Reading": [
+      "くさ",
+      "くさかんむり"
+    ],
+    "RomanjiReading": [
+      "kusa",
+      "kusakanmuri"
+    ],
+    "Meaning": [
+      "grass",
+      "herb",
+      "plant"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 141,
+    "Radical": [
+      "虍"
+    ],
+    "Kana Reading": [
+      "とら",
+      "とらがしら",
+      "とらかんむり"
+    ],
+    "RomanjiReading": [
+      "tora",
+      "toragashira",
+      "torakanmuri"
+    ],
+    "Meaning": [
+      "tiger"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 142,
+    "Radical": [
+      "虫"
+    ],
+    "Kana Reading": [
+      "むし",
+      "むしへん"
+    ],
+    "RomanjiReading": [
+      "mushi",
+      "mushihen"
+    ],
+    "Meaning": [
+      "insect",
+      "creeping animal"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 143,
+    "Radical": [
+      "血"
+    ],
+    "Kana Reading": [
+      "ち",
+      "ちへん"
+    ],
+    "RomanjiReading": [
+      "chi",
+      "chihen"
+    ],
+    "Meaning": [
+      "blood"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 144,
+    "Radical": [
+      "行"
+    ],
+    "Kana Reading": [
+      "ぎょう",
+      "ぎょうがまえ",
+      "いく",
+      "ゆきがまえ"
+    ],
+    "RomanjiReading": [
+      "gyou",
+      "gyougamae",
+      "iku",
+      "yukigamae"
+    ],
+    "Meaning": [
+      "walk",
+      "row",
+      "line",
+      "journey"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 145,
+    "Radical": [
+      "衣",
+      "衤"
+    ],
+    "Kana Reading": [
+      "ころも",
+      "ころもへん"
+    ],
+    "RomanjiReading": [
+      "koromo",
+      "koromohen"
+    ],
+    "Meaning": [
+      "clothing"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 146,
+    "Radical": [
+      "西",
+      "襾",
+      "覀"
+    ],
+    "Kana Reading": [
+      "にし",
+      "かなめのかしら",
+      "おおいかんむり"
+    ],
+    "RomanjiReading": [
+      "nishi",
+      "kanamenokashira",
+      "ooikanmuri"
+    ],
+    "Meaning": [
+      "cover",
+      "west"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 147,
+    "Radical": [
+      "見"
+    ],
+    "Kana Reading": [
+      "みる"
+    ],
+    "RomanjiReading": [
+      "miru"
+    ],
+    "Meaning": [
+      "see"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 148,
+    "Radical": [
+      "角"
+    ],
+    "Kana Reading": [
+      "つの",
+      "かく",
+      "つのへん"
+    ],
+    "RomanjiReading": [
+      "tsuno",
+      "kaku",
+      "tsunohen"
+    ],
+    "Meaning": [
+      "horn",
+      "a kind of volume measure"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 149,
+    "Radical": [
+      "言",
+      "訁"
+    ],
+    "Kana Reading": [
+      "いう",
+      "げん",
+      "ごんべん",
+      "ことば"
+    ],
+    "RomanjiReading": [
+      "iu",
+      "gen",
+      "gonben",
+      "kotoba"
+    ],
+    "Meaning": [
+      "speaking",
+      "speech"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 150,
+    "Radical": [
+      "谷"
+    ],
+    "Kana Reading": [
+      "たに",
+      "たにへん"
+    ],
+    "RomanjiReading": [
+      "tani",
+      "tanihen"
+    ],
+    "Meaning": [
+      "valley"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 151,
+    "Radical": [
+      "豆"
+    ],
+    "Kana Reading": [
+      "まめ",
+      "まめへん"
+    ],
+    "RomanjiReading": [
+      "mame",
+      "mamehen"
+    ],
+    "Meaning": [
+      "bean",
+      "a kind of vessel"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 152,
+    "Radical": [
+      "豕"
+    ],
+    "Kana Reading": [
+      "いのこ",
+      "いのこへん",
+      "ぶた"
+    ],
+    "RomanjiReading": [
+      "inoko",
+      "inokohen",
+      "buta"
+    ],
+    "Meaning": [
+      "pig"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 153,
+    "Radical": [
+      "豸"
+    ],
+    "Kana Reading": [
+      "むじな",
+      "むじなへん"
+    ],
+    "RomanjiReading": [
+      "mujina",
+      "mujinahen"
+    ],
+    "Meaning": [
+      "small hairy animals (cat",
+      "badger)"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 154,
+    "Radical": [
+      "貝"
+    ],
+    "Kana Reading": [
+      "かい",
+      "かいへん",
+      "こがい"
+    ],
+    "RomanjiReading": [
+      "kai",
+      "kaihen",
+      "kogai"
+    ],
+    "Meaning": [
+      "shell"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 155,
+    "Radical": [
+      "赤"
+    ],
+    "Kana Reading": [
+      "あか",
+      "あかへん"
+    ],
+    "RomanjiReading": [
+      "aka",
+      "akahen"
+    ],
+    "Meaning": [
+      "red",
+      "bare"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 156,
+    "Radical": [
+      "走",
+      "赱"
+    ],
+    "Kana Reading": [
+      "はしる",
+      "そうにょう"
+    ],
+    "RomanjiReading": [
+      "hashiru",
+      "sounyou"
+    ],
+    "Meaning": [
+      "run"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 157,
+    "Radical": [
+      "足",
+      "⻊"
+    ],
+    "Kana Reading": [
+      "あし",
+      "あしへん"
+    ],
+    "RomanjiReading": [
+      "ashi",
+      "ashihen"
+    ],
+    "Meaning": [
+      "foot",
+      "leg",
+      "walking"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 158,
+    "Radical": [
+      "身"
+    ],
+    "Kana Reading": [
+      "み",
+      "みへん"
+    ],
+    "RomanjiReading": [
+      "mi",
+      "mihen"
+    ],
+    "Meaning": [
+      "body"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 159,
+    "Radical": [
+      "車"
+    ],
+    "Kana Reading": [
+      "くるま",
+      "くるまへん"
+    ],
+    "RomanjiReading": [
+      "kuruma",
+      "kurumahen"
+    ],
+    "Meaning": [
+      "cart",
+      "car"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 160,
+    "Radical": [
+      "辛"
+    ],
+    "Kana Reading": [
+      "しん",
+      "からい"
+    ],
+    "RomanjiReading": [
+      "shin",
+      "karai"
+    ],
+    "Meaning": [
+      "bitter",
+      "the eigth of the celestial stems"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 161,
+    "Radical": [
+      "辰"
+    ],
+    "Kana Reading": [
+      "たつ",
+      "しんのたつ"
+    ],
+    "RomanjiReading": [
+      "tatsu",
+      "shinnotatsu"
+    ],
+    "Meaning": [
+      "morning",
+      "the fifth of the terrestrial branches"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 162,
+    "Radical": [
+      "辶",
+      "辶",
+      "⻌",
+      "⻍",
+      "辵"
+    ],
+    "Kana Reading": [
+      "しんにょう",
+      "しんにゅう"
+    ],
+    "RomanjiReading": [
+      "shinnyou",
+      "shinnyuu"
+    ],
+    "Meaning": [
+      "stamping on the earth",
+      "going"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 163,
+    "Radical": [
+      "⻏",
+      "阝",
+      "邑"
+    ],
+    "Kana Reading": [
+      "おおざと",
+      "おおざとづくり",
+      "ゆう"
+    ],
+    "RomanjiReading": [
+      "oozato",
+      "oozatozukuri",
+      "yuu"
+    ],
+    "Meaning": [
+      "village",
+      "town"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 164,
+    "Radical": [
+      "酉"
+    ],
+    "Kana Reading": [
+      "とり",
+      "とりへん",
+      "ひよみのとり",
+      "さけのとり"
+    ],
+    "RomanjiReading": [
+      "tori",
+      "torihen",
+      "hiyominotori",
+      "sakenotori"
+    ],
+    "Meaning": [
+      "sake",
+      "wine",
+      "jar",
+      "the tenth of the terrestrial branches"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 165,
+    "Radical": [
+      "釆"
+    ],
+    "Kana Reading": [
+      "のごめ",
+      "のごめへん"
+    ],
+    "RomanjiReading": [
+      "nogome",
+      "nogomehen"
+    ],
+    "Meaning": [
+      "distinguishing",
+      "seperating"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 166,
+    "Radical": [
+      "里"
+    ],
+    "Kana Reading": [
+      "さと",
+      "さとへん"
+    ],
+    "RomanjiReading": [
+      "sato",
+      "satohen"
+    ],
+    "Meaning": [
+      "mile",
+      "village",
+      "hamlet"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 167,
+    "Radical": [
+      "金",
+      "釒"
+    ],
+    "Kana Reading": [
+      "かね",
+      "かねへん"
+    ],
+    "RomanjiReading": [
+      "kane",
+      "kanehen"
+    ],
+    "Meaning": [
+      "metal",
+      "gold"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 168,
+    "Radical": [
+      "長",
+      "镸"
+    ],
+    "Kana Reading": [
+      "ながい"
+    ],
+    "RomanjiReading": [
+      "nagai"
+    ],
+    "Meaning": [
+      "long",
+      "hair"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 169,
+    "Radical": [
+      "門"
+    ],
+    "Kana Reading": [
+      "もん",
+      "もんがまえ",
+      "かどがまえ"
+    ],
+    "RomanjiReading": [
+      "mon",
+      "mongamae",
+      "kadogamae"
+    ],
+    "Meaning": [
+      "door",
+      "gate"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 170,
+    "Radical": [
+      "⻖",
+      "阝",
+      "阜"
+    ],
+    "Kana Reading": [
+      "こざと",
+      "こざとへん",
+      "おか",
+      "ぎふのふ"
+    ],
+    "RomanjiReading": [
+      "kozato",
+      "kozatohen",
+      "oka",
+      "gifunofu"
+    ],
+    "Meaning": [
+      "hill",
+      "dam"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 171,
+    "Radical": [
+      "隶"
+    ],
+    "Kana Reading": [
+      "たい",
+      "たいづくり",
+      "れいづくり",
+      "れいのつくり"
+    ],
+    "RomanjiReading": [
+      "tai",
+      "taizukuri",
+      "reizukuri",
+      "reinotsukuri"
+    ],
+    "Meaning": [
+      "slave",
+      "reaching",
+      "katching"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 172,
+    "Radical": [
+      "隹"
+    ],
+    "Kana Reading": [
+      "ふるとり"
+    ],
+    "RomanjiReading": [
+      "furutori"
+    ],
+    "Meaning": [
+      "small bird"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 173,
+    "Radical": [
+      "雨",
+      "⻗"
+    ],
+    "Kana Reading": [
+      "あめ",
+      "あめかんむり",
+      "あまかんむり"
+    ],
+    "RomanjiReading": [
+      "ame",
+      "amekanmuri",
+      "amakanmuri"
+    ],
+    "Meaning": [
+      "rain"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 174,
+    "Radical": [
+      "青",
+      "靑"
+    ],
+    "Kana Reading": [
+      "あお",
+      "あおへん"
+    ],
+    "RomanjiReading": [
+      "ao",
+      "aohen"
+    ],
+    "Meaning": [
+      "blue",
+      "green"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 175,
+    "Radical": [
+      "非"
+    ],
+    "Kana Reading": [
+      "あらず"
+    ],
+    "RomanjiReading": [
+      "arazu"
+    ],
+    "Meaning": [
+      "wrong"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 176,
+    "Radical": [
+      "面",
+      "靣"
+    ],
+    "Kana Reading": [
+      "めん"
+    ],
+    "RomanjiReading": [
+      "men"
+    ],
+    "Meaning": [
+      "face"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 177,
+    "Radical": [
+      "革"
+    ],
+    "Kana Reading": [
+      "かわ",
+      "かくのかわ",
+      "かわへん",
+      "つくりがわ"
+    ],
+    "RomanjiReading": [
+      "kawa",
+      "kakunokawa",
+      "kawahen",
+      "tsukurigawa"
+    ],
+    "Meaning": [
+      "skin",
+      "leather",
+      "changing"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 178,
+    "Radical": [
+      "韋"
+    ],
+    "Kana Reading": [
+      "なめしがわ"
+    ],
+    "RomanjiReading": [
+      "nameshigawa"
+    ],
+    "Meaning": [
+      "tanned leather"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 179,
+    "Radical": [
+      "韭"
+    ],
+    "Kana Reading": [
+      "にら"
+    ],
+    "RomanjiReading": [
+      "nira"
+    ],
+    "Meaning": [
+      "chives",
+      "scallion"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 180,
+    "Radical": [
+      "音"
+    ],
+    "Kana Reading": [
+      "おと"
+    ],
+    "RomanjiReading": [
+      "oto"
+    ],
+    "Meaning": [
+      "sound"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 181,
+    "Radical": [
+      "頁"
+    ],
+    "Kana Reading": [
+      "おおがい",
+      "いちのかい"
+    ],
+    "RomanjiReading": [
+      "oogai",
+      "ichinokai"
+    ],
+    "Meaning": [
+      "big shell"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 182,
+    "Radical": [
+      "風"
+    ],
+    "Kana Reading": [
+      "かぜ"
+    ],
+    "RomanjiReading": [
+      "kaze"
+    ],
+    "Meaning": [
+      "wind"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 183,
+    "Radical": [
+      "飛"
+    ],
+    "Kana Reading": [
+      "とぶ"
+    ],
+    "RomanjiReading": [
+      "tobu"
+    ],
+    "Meaning": [
+      "fly"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 184,
+    "Radical": [
+      "食",
+      "飠"
+    ],
+    "Kana Reading": [
+      "しょく",
+      "しょくへん"
+    ],
+    "RomanjiReading": [
+      "shoku",
+      "shokuhen"
+    ],
+    "Meaning": [
+      "eat",
+      "food"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 185,
+    "Radical": [
+      "首"
+    ],
+    "Kana Reading": [
+      "くび"
+    ],
+    "RomanjiReading": [
+      "kubi"
+    ],
+    "Meaning": [
+      "neck",
+      "head"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 186,
+    "Radical": [
+      "香"
+    ],
+    "Kana Reading": [
+      "か",
+      "こう",
+      "かおり",
+      "においこう"
+    ],
+    "RomanjiReading": [
+      "ka",
+      "kou",
+      "kaori",
+      "nioikou"
+    ],
+    "Meaning": [
+      "odor",
+      "perfume"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 187,
+    "Radical": [
+      "馬"
+    ],
+    "Kana Reading": [
+      "うま",
+      "うまへん"
+    ],
+    "RomanjiReading": [
+      "uma",
+      "umahen"
+    ],
+    "Meaning": [
+      "horse"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 188,
+    "Radical": [
+      "骨"
+    ],
+    "Kana Reading": [
+      "ほね",
+      "ほねへん"
+    ],
+    "RomanjiReading": [
+      "hone",
+      "honehen"
+    ],
+    "Meaning": [
+      "bone"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 189,
+    "Radical": [
+      "高",
+      "髙"
+    ],
+    "Kana Reading": [
+      "たかい"
+    ],
+    "RomanjiReading": [
+      "takai"
+    ],
+    "Meaning": [
+      "tall",
+      "high"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 190,
+    "Radical": [
+      "髟"
+    ],
+    "Kana Reading": [
+      "かみがしら",
+      "かみかんむり"
+    ],
+    "RomanjiReading": [
+      "kamigashira",
+      "kamikanmuri"
+    ],
+    "Meaning": [
+      "long hair"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 191,
+    "Radical": [
+      "鬥"
+    ],
+    "Kana Reading": [
+      "たたかいがまえ",
+      "とうがまえ"
+    ],
+    "RomanjiReading": [
+      "tatakaigamae",
+      "tougamae"
+    ],
+    "Meaning": [
+      "fight",
+      "battle"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 192,
+    "Radical": [
+      "鬯"
+    ],
+    "Kana Reading": [
+      "ちょう",
+      "においざけ",
+      "かおりぐさ"
+    ],
+    "RomanjiReading": [
+      "chou",
+      "nioizake",
+      "kaorigusa"
+    ],
+    "Meaning": [
+      "sacrificial wine"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 193,
+    "Radical": [
+      "鬲"
+    ],
+    "Kana Reading": [
+      "れき",
+      "れきのかなえ"
+    ],
+    "RomanjiReading": [
+      "reki",
+      "rekinokanae"
+    ],
+    "Meaning": [
+      "tripod",
+      "cauldron"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 194,
+    "Radical": [
+      "鬼"
+    ],
+    "Kana Reading": [
+      "おに",
+      "きにょう"
+    ],
+    "RomanjiReading": [
+      "oni",
+      "kinyou"
+    ],
+    "Meaning": [
+      "ghost",
+      "spirit"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 195,
+    "Radical": [
+      "魚"
+    ],
+    "Kana Reading": [
+      "うお",
+      "うおへん",
+      "さかな"
+    ],
+    "RomanjiReading": [
+      "uo",
+      "uohen",
+      "sakana"
+    ],
+    "Meaning": [
+      "fish"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 196,
+    "Radical": [
+      "鳥"
+    ],
+    "Kana Reading": [
+      "とり",
+      "とりへん"
+    ],
+    "RomanjiReading": [
+      "tori",
+      "torihen"
+    ],
+    "Meaning": [
+      "bird"
+    ],
+    "Important": 1
+  },
+  {
+    "UID": 197,
+    "Radical": [
+      "鹵"
+    ],
+    "Kana Reading": [
+      "ろ",
+      "しお",
+      "しおへん"
+    ],
+    "RomanjiReading": [
+      "ro",
+      "shio",
+      "shiohen"
+    ],
+    "Meaning": [
+      "salt"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 198,
+    "Radical": [
+      "鹿"
+    ],
+    "Kana Reading": [
+      "しか",
+      "しかへん"
+    ],
+    "RomanjiReading": [
+      "shika",
+      "shikahen"
+    ],
+    "Meaning": [
+      "deer"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 199,
+    "Radical": [
+      "麦",
+      "麥"
+    ],
+    "Kana Reading": [
+      "むぎ",
+      "ぼく",
+      "ばくにょう"
+    ],
+    "RomanjiReading": [
+      "mugi",
+      "boku",
+      "bakunyou"
+    ],
+    "Meaning": [
+      "wheat"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 200,
+    "Radical": [
+      "麻"
+    ],
+    "Kana Reading": [
+      "あさ",
+      "あさかんむり"
+    ],
+    "RomanjiReading": [
+      "asa",
+      "asakanmuri"
+    ],
+    "Meaning": [
+      "hemp"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 201,
+    "Radical": [
+      "黄",
+      "黃"
+    ],
+    "Kana Reading": [
+      "き",
+      "きいろ"
+    ],
+    "RomanjiReading": [
+      "ki",
+      "kiiro"
+    ],
+    "Meaning": [
+      "yellow"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 202,
+    "Radical": [
+      "黍"
+    ],
+    "Kana Reading": [
+      "きび"
+    ],
+    "RomanjiReading": [
+      "kibi"
+    ],
+    "Meaning": [
+      "millet"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 203,
+    "Radical": [
+      "黒",
+      "黑"
+    ],
+    "Kana Reading": [
+      "くろ",
+      "くろい",
+      "くろへん"
+    ],
+    "RomanjiReading": [
+      "kuro",
+      "kuroi",
+      "kurohen"
+    ],
+    "Meaning": [
+      "black"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 204,
+    "Radical": [
+      "黹"
+    ],
+    "Kana Reading": [
+      "ち",
+      "ぬいとり",
+      "ふつ",
+      "ふつへん"
+    ],
+    "RomanjiReading": [
+      "chi",
+      "nuitori",
+      "futsu",
+      "futsuhen"
+    ],
+    "Meaning": [
+      "needlework"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 205,
+    "Radical": [
+      "黽"
+    ],
+    "Kana Reading": [
+      "おおがえる",
+      "べん",
+      "ぼう",
+      "ひきがえる"
+    ],
+    "RomanjiReading": [
+      "oogaeru",
+      "ben",
+      "bou",
+      "hikigaeru"
+    ],
+    "Meaning": [
+      "frog",
+      "amphibian"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 206,
+    "Radical": [
+      "鼎"
+    ],
+    "Kana Reading": [
+      "かなえ",
+      "てい"
+    ],
+    "RomanjiReading": [
+      "kanae",
+      "tei"
+    ],
+    "Meaning": [
+      "sacrificial tripod",
+      "three-legged cauldron"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 207,
+    "Radical": [
+      "鼓"
+    ],
+    "Kana Reading": [
+      "つづみ"
+    ],
+    "RomanjiReading": [
+      "tsuzumi"
+    ],
+    "Meaning": [
+      "drum"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 208,
+    "Radical": [
+      "鼠"
+    ],
+    "Kana Reading": [
+      "ねずみ",
+      "ねずみへん"
+    ],
+    "RomanjiReading": [
+      "nezumi",
+      "nezumihen"
+    ],
+    "Meaning": [
+      "mouse",
+      "rat"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 209,
+    "Radical": [
+      "鼻"
+    ],
+    "Kana Reading": [
+      "はな",
+      "はなへん"
+    ],
+    "RomanjiReading": [
+      "hana",
+      "hanahen"
+    ],
+    "Meaning": [
+      "nose",
+      "self"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 210,
+    "Radical": [
+      "斉",
+      "齊"
+    ],
+    "Kana Reading": [
+      "さい",
+      "せい",
+      "ととのえる"
+    ],
+    "RomanjiReading": [
+      "sai",
+      "sei",
+      "totonoeru"
+    ],
+    "Meaning": [
+      "equal",
+      "alike"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 211,
+    "Radical": [
+      "歯",
+      "齒"
+    ],
+    "Kana Reading": [
+      "は",
+      "はへん"
+    ],
+    "RomanjiReading": [
+      "ha",
+      "hahen"
+    ],
+    "Meaning": [
+      "teeth"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 212,
+    "Radical": [
+      "竜",
+      "龍"
+    ],
+    "Kana Reading": [
+      "りゅう",
+      "たつ"
+    ],
+    "RomanjiReading": [
+      "ryuu",
+      "tatsu"
+    ],
+    "Meaning": [
+      "dragon"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 213,
+    "Radical": [
+      "亀",
+      "龜"
+    ],
+    "Kana Reading": [
+      "かめ"
+    ],
+    "RomanjiReading": [
+      "kame"
+    ],
+    "Meaning": [
+      "turtle"
+    ],
+    "Important": 0
+  },
+  {
+    "UID": 214,
+    "Radical": [
+      "龠"
+    ],
+    "Kana Reading": [
+      "やく",
+      "やくのふえ"
+    ],
+    "RomanjiReading": [
+      "yaku",
+      "yakufune"
+    ],
+    "Meaning": [
+      "flute"
+    ],
+    "Important": 0
+  }
+]
