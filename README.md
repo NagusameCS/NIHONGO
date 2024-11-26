@@ -18,12 +18,10 @@ Nippon GO basically takes in a JSON called JMDICT, breaks down words into kana a
 
 日本GOは基本的にJMDICT（英語版）と呼ばれるJSONを取り込み、単語をカナと漢字に分解し、その定義を抽出し、漢字をローマ字化し、それを使って単語オブジェクトを生成します。とてもシンプルなプロセスです。
 
-# App Icon / アプリアイコン
-Source: https://unsplash.com/photos/orange-octopus-lantern-v_8xUFwLpE4, License agreement: https://unsplash.com/license
-
-出典: https://unsplash.com/photos/orange-octopus-lantern-v_8xUFwLpE4、ライセンス契約: https://unsplash.com/license
-
 # Support / サポート
 If you have any questions or find any bugs, please contact me at billythedev@icloud.com :D
 
-ご質問やバグを見つけた場合は、billythedev@icloud.com までご連絡ください。:D
+ご質問やバグを見つけた場合は、billythedev@icloud.com までご連絡ください。:ヽ(・∀・)ﾉ
+
+# Liscences / ライセンス
+Key Sound Effect by <a href="https://pixabay.com/users/lightningbulb-28100020/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=199448">Lightningbulb</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=199448">Pixabay</a>
