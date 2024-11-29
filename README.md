@@ -25,3 +25,9 @@ If you have any questions or find any bugs, please contact me at billythedev@icl
 
 # Liscences / ライセンス
 Key Sound Effect by <a href="https://pixabay.com/users/lightningbulb-28100020/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=199448">Lightningbulb</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=199448">Pixabay</a>
+
+キー効果音: <a href="https://pixabay.com/users/lightningbulb-28100020/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=199448">Lightningbulb</a>  による、<a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=199448">Pixabay</a> から
+
+Mobile WaniKanji Database from https://github.com/davidluzgouveia/kanji-data/tree/master
+
+モバイルWaniKanjiデータベース: https://github.com/davidluzgouveia/kanji-data/tree/master から
